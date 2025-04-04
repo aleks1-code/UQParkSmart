@@ -1,6 +1,3 @@
-# UQParkSmart
-A smart parking app that provides real-time parking availability, predictive alerts, and smart recommendations for University of Queensland students and staff.
-
 import matplotlib.pyplot as plt
 import networkx as nx
 
@@ -46,8 +43,7 @@ G.add_edges_from([
 pos = nx.spring_layout(G)
 
 # Draw the graph
-plt.figure(figsize=(10, 10))
+plt.figure(figsize=(12, 12))
 nx.draw(G, pos, with_labels=True, node_size=4000, node_color="skyblue", font_size=10, font_weight="bold", edge_color="gray")
 plt.title("ParkPulse/UQ Park Smart App Tree of Features and Future Plans", size=15)
 plt.show()
-
