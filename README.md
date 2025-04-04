@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -71,10 +70,6 @@
             margin: 10px 0;
             font-size: 1.1rem;
         }
-        .feature li::before {
-            content: "🔹";
-            margin-right: 8px;
-        }
         @keyframes fadeIn {
             from {
                 opacity: 0;
@@ -105,6 +100,8 @@
         <p>Stay informed with real-time parking availability, predictive alerts, and smart recommendations to find parking quickly and efficiently. 🚗💨</p>
         
         <a href="#" class="cta-button">Download the App 📲</a>
+
+        <p><strong>Don't you ever feel sick and tired of wasting time looking for a car park at uni? Fear no more, UQParkSmart is here to help you find the best parking in a flash!</strong></p>
         
         <div class="feature">
             <h2>Key Features 🛠️</h2>
