@@ -107,7 +107,7 @@
                 <li><strong>Live Car Park Availability</strong>: Get real-time data on car park occupancy. </li>
                 <li><strong>Predictive Notifications</strong>: Receive alerts before your usual car park is full. </li>
                 <li><strong>Smart Recommendations</strong>: Find the closest available parking with walking time estimates. </li>
-                <li><strong>Weather-Based Alerts</strong>: Prioritize undercover parking when it rains. </li>
+                <li><strong>Weather-Based Alerts</strong>: Prioritise undercover parking when it rains. </li>
                 <li><strong>Peak Hour Forecasting</strong>: Predict parking availability during peak hours. </li>
             </ul>
         </div>
