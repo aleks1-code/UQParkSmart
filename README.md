@@ -96,21 +96,19 @@
     </header>
 
     <div class="container">
-        <p>Welcome to UQParkSmart, your go-to solution for finding parking at the University of Queensland! 🚘</p>
-        <p>Stay informed with real-time parking availability, predictive alerts, and smart recommendations to find parking quickly and efficiently. 🚗💨</p>
+        <p>Tired of spending precious time searching for parking at uni? Let UQParkSmart streamline the process and help you find the best spot quickly and easily. </p>
+        <p>Stay informed with real-time parking availability, predictive alerts, and smart recommendations to find parking quickly and efficiently. </p>
         
         <a href="#" class="cta-button">Download the App 📲</a>
-
-        <p><strong>Don't you ever feel sick and tired of wasting time looking for a car park at uni? Fear no more, UQParkSmart is here to help you find the best parking in a flash!</strong></p>
         
         <div class="feature">
-            <h2>Key Features 🛠️</h2>
+            <h2>Key Features 🛠</h2>
             <ul>
-                <li><strong>Live Car Park Availability</strong>: Get real-time data on car park occupancy. 🚙</li>
-                <li><strong>Predictive Notifications</strong>: Receive alerts before your usual car park is full. ⏰</li>
-                <li><strong>Smart Recommendations</strong>: Find the closest available parking with walking time estimates. 🏃‍♂️</li>
-                <li><strong>Weather-Based Alerts</strong>: Prioritize undercover parking when it rains. 🌧️</li>
-                <li><strong>Peak Hour Forecasting</strong>: Predict parking availability during peak hours. ⏳</li>
+                <li><strong>Live Car Park Availability</strong>: Get real-time data on car park occupancy. </li>
+                <li><strong>Predictive Notifications</strong>: Receive alerts before your usual car park is full. </li>
+                <li><strong>Smart Recommendations</strong>: Find the closest available parking with walking time estimates. </li>
+                <li><strong>Weather-Based Alerts</strong>: Prioritize undercover parking when it rains. </li>
+                <li><strong>Peak Hour Forecasting</strong>: Predict parking availability during peak hours. </li>
             </ul>
         </div>
     </div>
