@@ -112,7 +112,7 @@
 
     <div class="container">
         <div class="main-logo">
-            <img src="/mnt/data/LOGO Park Smart Draft 1 12 Apr.png" alt="Park Smart Logo">
+            <img src="park-smart-logo.png" alt="Park Smart Logo">
         </div>
 
         <p>Tired of spending precious time searching for parking at uni? Let UQ ParkSmart streamline the process and help you find the best spot quickly and easily. </p>
@@ -121,8 +121,8 @@
         <a href="#" class="cta-button">Download the App 📲</a>
 
         <div class="logos">
-            <img src="/mnt/data/image.png" alt="CellOPark Australia Logo">
-            <img src="/mnt/data/image.png" alt="The University of Queensland Logo">
+            <img src="cellopark-logo.png" alt="CellOPark Australia Logo">
+            <img src="uq-logo.png" alt="The University of Queensland Logo">
         </div>
 
         <div class="feature">
