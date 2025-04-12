@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>UQParkSmart</title>
+    <title>UQ ParkSmart</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -71,6 +71,17 @@
             margin: 10px 0;
             font-size: 1.1rem;
         }
+        .logos {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin-top: 40px;
+            flex-wrap: wrap;
+        }
+        .logos img {
+            height: 60px;
+            object-fit: contain;
+        }
         @keyframes fadeIn {
             from { opacity: 0; }
             to { opacity: 1; }
@@ -89,17 +100,22 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to UQParkSmart 🚗💡</h1>
+        <h1>Welcome to UQ ParkSmart </h1>
     </header>
 
     <div class="container">
-        <p>Tired of spending precious time searching for parking at uni? Let UQParkSmart streamline the process and help you find the best spot quickly and easily. </p>
+        <p>Tired of spending precious time searching for parking at uni? Let UQ ParkSmart streamline the process and help you find the best spot quickly and easily. </p>
         <p>Stay informed with real-time parking availability, predictive alerts, and smart recommendations to find parking quickly and efficiently. </p>
-        
+
         <a href="#" class="cta-button">Download the App 📲</a>
 
+        <div class="logos">
+            <img src="/mnt/data/image.png" alt="CellOPark Australia Logo">
+            <img src="/mnt/data/image.png" alt="The University of Queensland Logo">
+        </div>
+
         <div class="feature">
-            <h2>Key Features 🛠</h2>
+            <h2>Key Features </h2>
             <ul>
                 <li><strong>Live Car Park Availability</strong>: Get real-time data on car park occupancy. </li>
                 <li><strong>Predictive Notifications</strong>: Receive alerts before your usual car park is full. </li>
