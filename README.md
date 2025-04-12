@@ -82,6 +82,13 @@
             height: 60px;
             object-fit: contain;
         }
+        .main-logo {
+            margin-top: 40px;
+        }
+        .main-logo img {
+            max-width: 300px;
+            height: auto;
+        }
         @keyframes fadeIn {
             from { opacity: 0; }
             to { opacity: 1; }
@@ -104,6 +111,10 @@
     </header>
 
     <div class="container">
+        <div class="main-logo">
+            <img src="/mnt/data/LOGO Park Smart Draft 1 12 Apr.png" alt="Park Smart Logo">
+        </div>
+
         <p>Tired of spending precious time searching for parking at uni? Let UQ ParkSmart streamline the process and help you find the best spot quickly and easily. </p>
         <p>Stay informed with real-time parking availability, predictive alerts, and smart recommendations to find parking quickly and efficiently. </p>
 
