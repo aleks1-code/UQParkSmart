@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -71,12 +72,8 @@
             font-size: 1.1rem;
         }
         @keyframes fadeIn {
-            from {
-                opacity: 0;
-            }
-            to {
-                opacity: 1;
-            }
+            from { opacity: 0; }
+            to { opacity: 1; }
         }
         @keyframes slideIn {
             from {
@@ -100,7 +97,7 @@
         <p>Stay informed with real-time parking availability, predictive alerts, and smart recommendations to find parking quickly and efficiently. </p>
         
         <a href="#" class="cta-button">Download the App 📲</a>
-        
+
         <div class="feature">
             <h2>Key Features 🛠</h2>
             <ul>
@@ -109,6 +106,13 @@
                 <li><strong>Smart Recommendations</strong>: Find the closest available parking with walking time estimates. </li>
                 <li><strong>Weather-Based Alerts</strong>: Prioritise undercover parking when it rains. </li>
                 <li><strong>Peak Hour Forecasting</strong>: Predict parking availability during peak hours. </li>
+                <li><strong>Advance Booking System</strong>: Reserve a parking spot up to 7 days in advance, with tiered pricing to encourage fair use. </li>
+                <li><strong>User Profile Management</strong>: Secure account creation with vehicle registration and UQ ID for managing bookings. </li>
+                <li><strong>HEX-Style Deferred Payments</strong>: Option to pay later with interest-accruing student-style debt. </li>
+                <li><strong>Incentives with UQ Vendors</strong>: Earn discounts at Boost Juice, GYG, Subway and more through a loyalty program. </li>
+                <li><strong>Gamified Loyalty Tiers</strong>: Bronze, Silver, and Gold tiers unlock escalating rewards and discounts. </li>
+                <li><strong>Interactive Vendor Map</strong>: Find partnered cafés and food courts across campus with special offers. </li>
+                <li><strong>Auto Notifications</strong>: Get reminders for upcoming reservations and alerts when time is running out. </li>
             </ul>
         </div>
     </div>
